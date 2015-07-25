@@ -95,5 +95,6 @@ public function hasHttp($url){
 public testowaFunkcja($string){
 	
 	return $string;
+	
 }
 }
